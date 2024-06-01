@@ -1,6 +1,6 @@
-steps to run this:
+<h1>steps to run this:</h1>
 
-step1:
+<h3><i><b>step1:
 Create the Manifest File
 Inside your project folder, create a manifest.json file. This file will contain metadata about your extension, such as its name, version, and permissions.
 
@@ -35,7 +35,7 @@ Options Page: For extension settings, create an options.html page and link it in
 Open Chrome and go to chrome://extensions/.
 Enable "Developer mode" by toggling the switch in the top right corner.
 Click "Load unpacked" and select your project folder.
-
+</b></i></h3>
 
 
 <h1><b>Test Your Extension
